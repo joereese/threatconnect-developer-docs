@@ -22,3 +22,4 @@ Demo <https://www.threatconnect.com/request-a-demo/>`__
    common_errors
    angular
    trademarks
+   apps_integrations/index
